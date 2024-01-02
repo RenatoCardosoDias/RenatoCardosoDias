@@ -16,3 +16,7 @@
 	<img align="center" alt= TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 	<img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">  
 </div>
+
+<div>
+Em transição de carreira | Como sou adepto à mudanças, não pensei duas vezes quando tive a oportunidade de estudo | Consumo de APIs | Arquitetura MVVM | Desenho de interfaces com SwiftUI | Apaixonado por tecnologia, em busca de lugar como programador | Aprendendo na prática sobre: Desenvolvimento de Aplicativos - Swift - Desenvolvimento de Comunicação - Organizações Exponenciais - Educação - liderança - Novas Experiências
+</div>
